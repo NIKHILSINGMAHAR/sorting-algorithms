@@ -1,4 +1,4 @@
-# sorting-in-c
+# sorting algorithms
 
 
 
